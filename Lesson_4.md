@@ -72,8 +72,8 @@
 * `Мои друзья иногда говорят`
 * My best friend always helps me
 * `Мой лучший друг всегда помогает мне`
-* My teacher usually comes to work
-* `Мой учитель обычно приходит на работу`
+* My teacher usually comes to work early
+* `Мой учитель обычно приходит на работу рано`
 * My father usually comes home late
 * `Мой отец обычно приходит домой поздно`
 
@@ -121,7 +121,9 @@
 * `Мой босс обычно проверяет всю информацию`
 * My sister lives in this place
 * `Моя сестра живет в этом месте`
-* My friend has a carЭти уроки действительно помогают.я чувствую это
+* My friend has a car
+* `У моего друга есть машина`
+* This company has money
 * `У этой компании есть деньги`
 * These lessons really help. I feel it
 * `Эти уроки действительно помогают.я чувствую это`
