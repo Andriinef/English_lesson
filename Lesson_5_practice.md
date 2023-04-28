@@ -241,3 +241,126 @@
 * `Мой босс обычно проверяет всю информацию`
 * I love you
 * `Я тебя люблю`
+
+## Practice 3
+
+* I have a family
+* `У меня есть семья`
+* I work here
+* `Я работаю здесь`
+* This lesson seems interesting
+* `Этот урок кажется интересным`
+* She does it very well
+* `Она делает это очень хорошо`
+* My friend thinks so
+* `Мой друг так думает`
+* She loves you
+* `Она любит тебя`
+* Our boss knows it
+* `Наш босс знает это`
+* It looks interesting
+* `Это выглядит интересно`
+* My brother wants it
+* `Мой брат хочет этого`
+* All your ideas seem very interesting
+* `Все ваши идеи кажутся очень интересными`
+* He loves you
+* `Он любит тебя`
+* We remember it
+* `Мы помним это`
+* My brother tries to do it
+* `Мой брат пытается это сделать`
+* My sister lives there
+* `Моя сестра живет там`
+* I work there
+* `Я там работаю`
+* I understand those people
+* `Я понимаю этих людей`
+* She always does it well
+* `Она всегда делает это хорошо`
+* I live in this country
+* `Я живу в этой стране`
+* I live in this city
+* `Я живу в этом городе`
+* She teacher it
+* `Она учит это`
+* I think so
+* `я так думаю`
+* She also thinks so
+* `Она также так думает`
+* He tries to do it
+* `Он пытается сделать это`
+* He lives in this country
+* `Он живет в этой стране`
+* Hi idea seems very interesting
+* `Привет, идея кажется очень интересной`
+* His lessons seem very useful
+* `Его уроки кажутся очень полезными`
+* He also works here
+* `Он также работает здесь`
+* She goes to school
+* `Она ходит в школу`
+* I read English books
+* `Я читаю английские книги`
+* She helps me
+* `Она помогает мне`
+* He also knows it
+* `Он также знает это`
+* We see his success
+* `Мы видим его успех`
+* She often goes to the park
+* `Она часто идет в парк`
+* That offer seems strange
+* `Это предложение кажется странным`
+* He has an offer
+* `У него есть предложение`
+* Their ideas seem very interesting
+* `Их идеи кажутся очень интересными`
+* She always does it on time
+* `Она всегда делает это вовремя`
+* He sees that mistake
+* `Он видит эту ошибку`
+* She watches TV
+* `Она смотрит телевизор`
+* She wants more
+* `Она хочет большего`
+* I work
+* `Я работаю`
+* Her words seem strange
+* `Ее слова кажутся странными`
+* He often plays computer games
+* `Он часто играет в компьютерные игры`
+* He goes to work
+* `Он ходит на работу`
+* She lives in that place
+* `Она живет в этом месте`
+* He understands you very well
+* `Он очень хорошо тебя понимает`
+* They do to work
+* `Они делают, чтобы работать`
+* You always say it
+* `Ты всегда говоришь`
+* This lesson helps me
+* `Этот урок помогает мне`
+* They often go to the cinema
+* `Они часто ходят в кино`
+* These lessons seems very useful
+* `Эти уроки кажется очень полезными`
+* They help me
+* `Они мне помогают`
+* I speak English
+* `Я говорю по-английски`
+* He sometimes wants to do it
+* `Он иногда хочет сделать это`
+* I understand everything
+* `Я все понимаю`
+* She lives in this place
+* `Она живет в этом месте`
+* I read in English
+* `Я читаю по -английски`
+* He says interesting things
+* `Он говорит интересные вещи`
+* We see their success
+* `Мы видим их успех`
+* I know this word
+* `Я знаю это слово`
