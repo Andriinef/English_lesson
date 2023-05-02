@@ -80,17 +80,17 @@
 
 * I want to improve my grammar
 * `Я хочу улучшить свою грамматику`
-* I want to do there (go here / there) one more time
-* `Я хочу сделать там (иди сюда / там еще раз) еще раз`
-* She wants to live in another place
+* I want to go there (go here / there) one more time
+* `Я хочу иди туда (иди сюда / там еще раз) еще раз`
+* She wants to live in another (əˈnəT͟Hər) place
 * `Она хочет жить в другом месте`
 * She want to do it
 * `Она хочет это сделать`
 * I want to know it
 * `Я хочу это знать`
-* I want to speak English without mistakes
+* I want to speak English without (wəˈT͟Hout) mistakes
 * `Я хочу говорить по -английски без ошибок`
-* She wants to see you right now
+* She wants to see you right (rīt) now
 * `Она хочет увидеть тебя прямо сейчас`
 * I want this computer
 * `Я хочу этот компьютер`
@@ -123,7 +123,7 @@
 * I want to speak English better
 * `Я хочу лучше говорить по -английски`
 * I want to speak English correctly
-* Я хочу правильно говорить по -английски
+* `Я хочу правильно говорить по -английски`
 * My parents want to live in another place
 * `Мои родители хотят жить в другом месте`
 * I want to improve my English
