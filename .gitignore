@@ -1,17 +1,17 @@
 # Virtual environments
+venv/
 .venv/
 env/
-venv/
+.env/
 
 # Environments
-.env
 local.env
 
 # VS code
-.vscode
+.vscode/
 
 # PyCharm
-.idea
+.idea/
 
 # Volumes
 data/
@@ -28,5 +28,5 @@ __pycache__/
 django_cache/
 
 # Unit test / coverage reports
-.coverage
+.coverage/
 .coverage.*
