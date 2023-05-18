@@ -64,8 +64,10 @@
 * `Мой друг не думает то же самое`
 * He doesn't have this information
 * `У него нет этой информации`
-* I don't want to live in another place
-* `Я не хочу жить в другом месте`
+* I don't believe her
+* `Я не верю ей`
+* We don't want to live in another place
+* `Мы не хотим жить в другом месте`
 * I want it
 * `Я хочу это`
 * That thing doesn't seem interesting
