@@ -66,7 +66,7 @@
 * `Мне нужно это проверить`
 * My boss reads all the documents
 * `Мой босс читает все документы`
-* She like it
+* She likes it
 * `Ей это нравится`
 * She wants to do it
 * `Она хочет сделать это`
@@ -86,16 +86,14 @@
 * `Она любит его`
 * He always pays for her
 * `Он всегда платит за нее`
-* My sister does to school
-* `Моя сестра делает в школу`
+* My sister goes to school
+* `Моя сестра идет в школу`
 * My friend and i don't call them
-* `Мой друг и я не называем их`
+* `Мой друг и я не называем им`
 * I need to study harder
 * `Мне нужно учиться сильнее`
 * I want to be happy
 * `Я хочу быть счастливым`
-* He often goes to the cinema
-* `Он часто идет в кино`
 * My friend doesn't believe him
 * `Мой друг не верит ему`
 * He often goes to the cinema
