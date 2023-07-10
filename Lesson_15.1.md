@@ -36,4 +36,3 @@
 * Does she teach English?
 * Does he always pay for her?
 * Does she ignore it sometimes?
-
