@@ -4,53 +4,57 @@
     * Do you like it?
 
 2. Special
+    * Почему/Как/Что/Где/Когда
     * Why/How/What/Where/When + do + (I/we/you/they) + verb?
     * Why/How/What/Where/When + does + (He/She/It) + verb?
 
-* Where does he work?
-* Where does she study?
-* Where does she go?
-* Whe does he complain so often?
-* Whe does she refuse to pay?
-* Whe does it happen again and again?
-* Where does she say?
-* Where does she tell him?
-* Where does he want to add?
-* Where does she try to do?
-* Where does he need to change?
-* How does she test their knowledge?
-* How does it help you?
-* How does he support you?
-* When does it happen?
-* When does he feel happy?
-* What does he remember?
-* What does she want to add?
+* Where [weə] do you work?
+* Where do you study?
+* Where do you go?
+* Where do you spend time together?
+* Why [waɪ] do you think so?
+* Why do you agree with him?
+* Why do you learn English?
+* What do you think about it?
+* What do you know?
+* What do you want to do?
+* What do you need to do?
+* How do you find this Idea?
+
+## get to (work/ this place/ that place)
+
+## get (here/ there/ home)
+
+* How do you get to work?
+* How do you get there?
+* When do you feel happy?
+* When do you go to work?
+* When do you have free time?
+* What do you want to say?
+* What seems strange?
+* What looks strange?
+* What do they want to tell you?
 * What helps you?
-* What interests you?
-* What worries you?
-* Who does it motivate?
-* Who motivates you?
-* Who does she love?
-* Who loves her?
-* Who does he support?
-* Who supports you?
-* What English books does he have?
-* What channels does she watch?
-* What kind of movies does she watch?
-* What books does she prefer to read?
-* What channels he useful watch?
-* Which channel he useful watch?
-* What drinks does she prefer?
-* Which drink does she prefer?
-* What time does he come to work?
-* What time does she leave [lēv] home?
-* How much money does she pay?
-* How many dollars does he have?
-* How often does she do to the cinema?
-* How often does he do to the zoo?
-* How regularly [ˈreɡyələrlē] does he do there exercises [ˈeksərˌsīz]?
-* How long does it take you to get to work?
-* How long does it take he to get to this place?
-* Why do you like it?
-* What do you do in your free time?
-* How do you do it?
+* What really helps you?
+* Who do you know?
+* Who knows it?
+* Who do you support?
+* Who support you?
+
+## What ... do/does ...?
+
+* What books do you read?
+* What English books do you read?
+* What music do you prefer?
+
+## What kind/sort of ... do/does ...?
+
+* What kind of books do you read?
+* What kind of computer games do there play?
+* What time do you get up?
+* What time do you go to bed?
+* How much money do you have with you?
+* How many friend do you have?
+* How often do you go there?
+* How often do you go the gym?
+* How regularly do you learn English?
